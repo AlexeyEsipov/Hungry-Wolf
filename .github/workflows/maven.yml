@@ -29,5 +29,5 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: 
-           cd Dish && mvn -B package
+           cd dish && mvn -B package --file pom.xml
     
