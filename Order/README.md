@@ -10,6 +10,7 @@
 ![Liquibase](https://img.shields.io/badge/Liquibase-4.9.1-red?style=for-the-badge&logo=liquibase&logoColor=white)
 
 Перед запуском установите:
+
 - PostgreSQL 14
 - Java 17
 - Apache Maven 3.x
